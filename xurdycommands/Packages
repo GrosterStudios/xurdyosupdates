@@ -1,0 +1,6 @@
+Package: xurdyos-core
+Version: 1.0.0.0
+Architecture: amd64
+Maintainer: GrosterStudios <email@example.com>
+Filename: xurdyos-core_1.0.0.0_amd64.deb
+Description: coresystem package

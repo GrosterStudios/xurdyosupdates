@@ -4,4 +4,6 @@ Architecture: amd64
 Maintainer: GrosterStudios <email@example.com>
 Filename: xurdyos-core_1.0.0.0_amd64.deb
 Size: 1382
+MD5sum: fec2311becbc7eb3175fb05e1d25f26b
+SHA256: 1eabe71f985077a0fed959a40d62b779281d5e2849e67a0454f69bfb3927c1c8
 Description: coresystem package
